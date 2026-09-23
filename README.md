@@ -2,13 +2,13 @@
 
 ### Dev iniciante
 
-- 🔭 I'm currently working on **Desenvolvimento de um ERP voltado a pequenos comércios. Além de outros trabalhos relacionados a faculdade e projetos pessoais.**
+- 🔭 Estou atualmente trabalhando com: **O desenvolvimento de um ERP voltado a pequenos comércios. Além de outros trabalhos relacionados a faculdade e projetos pessoais.**
 
-- 🌱 I'm currently learning **HTML; CSS; JavaScript; C/C++; Git e GitHub; Linux; Programação Orientada a Objetos; e outros.**
+- 🌱 Estou aprendendo no momento: **HTML; CSS; JavaScript; C/C++; Git e GitHub; Linux; Programação Orientada a Objetos; e outros.**
 
-- 📫 How to reach me **email.generico@gmail.com**
+- 📫 Me contacte aqui: **email.generico@gmail.com**
 
-- ⚡ Fun fact **Eu adoro criar coisas e me animo em não fazer mais do mesmo.**
+- ⚡ Fato divertido!~ **Eu adoro criar coisas e me animo em não fazer mais do mesmo.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
